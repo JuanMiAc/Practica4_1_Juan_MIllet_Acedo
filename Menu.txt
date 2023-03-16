@@ -1,0 +1,9 @@
+   \\ * MENU PERSONA * //
+     ------------------
+-----Introduzca una opcion--------
+
+1) -> Introducir persona.
+2) -> Generar listado.
+3) -> Buscar persona.
+4) -> Generar fichero.
+5) -> Salir. 
